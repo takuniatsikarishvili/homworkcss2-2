@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    
+}
+#hederbox{
+    max-width: 980px;
+    width: 100%;
+    margin: 0 auto;
+}
+#logo{
+    max-width: 147px;
+    width: 100%;
+    padding: 13.489px;
+    align-items: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+#linkbox{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 176px;
+    margin-right: 176px;
+    padding-right: 20PX;
+
+}
+#pirveli{
+    color: #FF5DA3;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+#meore{
+    padding-right: 20px;
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#button{
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 16px;
+    border-radius: 8px;
+    background: #00AC25;
+    width: 105px;
+}
+/*main*/
+#mainbox{
+    max-width: 1316px;
+    width: 100%;
+    text-align: center;
+    
+}
+ #sataurebi{
+ }
+h1{
+    color: #000;
+    font-size: 72px;
+    font-weight: 700;
+
+}
+h2{
+    color: #FF5DA3;
+    font-size: 72px;
+    font-weight: 700;
+}
+
+
+
+#pirvelip{
+    color: #000;
+    text-align: center
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+#meorep{
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+
+}
+#mesamep{
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+#buttonmeore{
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #00AC25;
+    max-width: 233px;
+    width: 100%;
+}
+/*footer*/
+#footerbox{
+    max-width: 1920px;
+    width: 100%;
+    align-items: center;
+    background:  #53389E;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin-top: 578px;
+
+
+}
+#icon{
+    display: inline-block;
+    vertical-align: middle;
+
+}
+#footerconteiner{
+   text-align: center;
+    vertical-align: middle;
+
+}
+#chamonatvali{
+    color: #E9D7FE;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 192px;
+    margin-right: 192px;
+    
+}
+#meoreicon{
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 160px;
+    width: 100%;
+
+}
