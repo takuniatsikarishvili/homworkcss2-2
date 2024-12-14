@@ -60,6 +60,7 @@
     max-width: 1316px;
     width: 100%;
     text-align: center;
+    margin-top: 178px;
     
 }
  #sataurebi{
@@ -68,12 +69,14 @@ h1{
     color: #000;
     font-size: 72px;
     font-weight: 700;
+    text-align: center;
 
 }
 h2{
     color: #FF5DA3;
     font-size: 72px;
     font-weight: 700;
+    text-align: center;
 }
 
 
@@ -135,12 +138,25 @@ h2{
 
 }
 #chamonatvali{
-    color: #E9D7FE;
+    color:  #E9D7FE;
     display: inline-block;
     vertical-align: middle;
     margin-left: 192px;
     margin-right: 192px;
     
+}
+#paddingerti{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#paddingori{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+#paddingsami{
+    padding-left: 20px;
 }
 #meoreicon{
     display: inline-block;
