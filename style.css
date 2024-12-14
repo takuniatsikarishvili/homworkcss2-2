@@ -29,12 +29,17 @@
 
 }
 #pirveli{
-    color: #FF5DA3;
+    
+    
     font-size: 18px;
     font-style: normal;
     font-weight: 600;
     display: inline-block;
     vertical-align: middle;
+
+}
+#feri{
+    color: #FF5DA3;
 
 }
 #meore{
@@ -138,7 +143,7 @@ h2{
 
 }
 #chamonatvali{
-    color:  #E9D7FE;
+    
     display: inline-block;
     vertical-align: middle;
     margin-left: 192px;
@@ -148,15 +153,18 @@ h2{
 #paddingerti{
     padding-left: 20px;
     padding-right: 20px;
+    color:  #E9D7FE;
 }
 #paddingori{
     
     padding-left: 20px;
     padding-right: 20px;
+    color:  #E9D7FE;
 
 }
 #paddingsami{
     padding-left: 20px;
+    color:  #E9D7FE;
 }
 #meoreicon{
     display: inline-block;
@@ -164,4 +172,15 @@ h2{
     max-width: 160px;
     width: 100%;
 
+}
+#colorerti{
+    color:  #E9D7FE;
+}
+#colorori{
+
+ color:  #E9D7FE;
+}
+#colorsami{
+
+color:  #E9D7FE;
 }
